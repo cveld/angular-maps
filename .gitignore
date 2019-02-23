@@ -20,3 +20,6 @@ Thumbs.db
 *.map
 *.d.ts
 *lock.json
+
+# VSCode
+.vscode

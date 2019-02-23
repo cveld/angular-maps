@@ -35,4 +35,5 @@ export interface IMapOptions {
     zoom?: number;
     mapTypeId?: MapTypeId;
     centerOffset?: IPoint;
+    liteMode?: boolean;
 }

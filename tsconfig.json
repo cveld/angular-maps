@@ -5,7 +5,7 @@
         "target": "es5",
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
-        "allowJs": true,
+        // "allowJs": true,
         "sourceMap": true,
         "declaration": true,
         "outDir": "dist",
@@ -14,7 +14,7 @@
         "types": ["node"]
     },
     "files": [
-        "node_modules/bingmaps/scripts/MicrosoftMaps/Microsoft.Maps.All.d.ts",
+        "node_modules/bingmaps/types/MicrosoftMaps/Microsoft.Maps.All.d.ts",
         "index.ts"
     ],
     "exclude": [
